@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Infosys</string>
+    <string-array name="Validity">
+        <item>1 day</item>
+        <item>7 day</item>
+        <item>15 day</item>
+        <item>30 day</item>
+    </string-array>
+    <string-array name="Data_Usage">
+        <item>100MB</item>
+        <item>300MB</item>
+        <item>500MB</item>
+        <item>1 GB</item>
+        <item>5 GB</item>
+        <item>5+ GB</item>
+    </string-array>
+    <string-array name="SMS">
+        <item>50</item>
+        <item>100</item>
+        <item>200</item>
+        <item>500</item>
+    </string-array>
+</resources>
